@@ -1,8 +1,4 @@
 
----
-
-### 📄 `ADF_Pipeline_Ingestion.md`
-
 # Step 3: Azure Data Factory Pipeline - Initial Ingestion
 
 ## ✅ Objective
