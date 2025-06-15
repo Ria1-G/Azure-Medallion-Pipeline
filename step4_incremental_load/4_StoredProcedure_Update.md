@@ -49,7 +49,7 @@ END;
 
 ## 📁 Related Files
 
-- 🧾 Download Pipeline JSON with Stored Procedure: [incremental_load_with_stored_proc.json](./incremental_load_with_stored_procedure.json)
+- 🧾 Download Pipeline JSON with Stored Procedure: [incremental_load_with_stored_proc.json](./json/incremental_load_with_stored_procedure.json)
 
 ➡️ Next: [Step 5 – Silver Layer Transformation using Databricks](./step5_silver_layer_databricks/Silver_Layer_Transformation.md)
 

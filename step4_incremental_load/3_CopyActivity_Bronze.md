@@ -58,6 +58,6 @@ WHERE Invoice_Date > '@{activity('min_value').output.value[0].last_load}'
 
 ## 📁 Related Files
 
-- 🧾 Pipeline JSON: [incremental_load.json](./incremental_load.json)
+- 🧾 Pipeline JSON: [incremental_load.json](./json/incremental_load.json)
 
 ➡️ Next: [Step 4.6 – Stored Procedure: Update WaterTable](./4_StoredProcedure_Update.md)
