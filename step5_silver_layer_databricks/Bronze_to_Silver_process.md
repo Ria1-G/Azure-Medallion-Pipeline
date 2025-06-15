@@ -35,6 +35,7 @@ To convert raw, uncleaned data from the Bronze layer into a structured, deduplic
 
 ## 📁 Related Files
 
-- 🧠 Notebook File: [Silver.ipynb](./Silver.ipynb)
+- 🧠 Notebook ipynb File: [Silver.ipynb](./Silver.ipynb)
+- 🧠 Notebook html File: [Silver.html](./Silver.html)
 
 ➡️ Next: [Step 6 & 7 – Gold Layer Star Schema](../step6_gold_star_schema/Dimension_Tables.md)
